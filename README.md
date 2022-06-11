@@ -23,3 +23,9 @@ https://www.waitingforcode.com/general-data-engineering/ml-data-engineers-what-l
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
 머신러닝 단기 집중과정
+
+
+
+https://cloud.google.com/architecture/reference-patterns/overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_ret_gcp_qqnxq3cor9q_FraudDetectionSolution_030221&utm_content=description#building-a-telecom-network-anomaly-detection-application-using-k-means-clustering
+
+데이터 분석 설계 패턴
