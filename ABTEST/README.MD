@@ -43,3 +43,22 @@ https://kakim0.github.io/ab%20test/AB_Test-2/
 https://kakim0.github.io/ab%20test/AB_Test-2/
 
 사조사 관련 문제.. 실험설계 평가..
+
+https://www.youtube.com/watch?v=jCuEb9zW19Q&ab_channel=SKplanetRD
+
+
+A/B테스트 구현
+
+
+https://www.bucketplace.co.kr/post/2021-10-29-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-a-b-%EC%8B%A4%ED%97%98-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0/
+
+
+https://www.youtube.com/watch?v=HCHXZAowMQg&list=PL42xwJRIG3xCtmOrJAQFR5sIJFKIJ9MEn&index=5&ab_channel=DavidWeiss
+
+이건뭐지.
+
+
+https://www.youtube.com/watch?v=Fwa-AjF-X4Q&ab_channel=Hackle
+
+REACT로 A/B테스트 구현
+
